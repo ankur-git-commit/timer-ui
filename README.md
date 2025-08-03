@@ -127,12 +127,3 @@ The application uses Tailwind CSS for styling with:
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## Future Enhancements
-
-- [ ] Custom timer duration input
-- [ ] Multiple timer support
-- [ ] Sound notifications
-- [ ] Timer presets (Pomodoro, etc.)
-- [ ] Dark mode toggle
-- [ ] Timer history/logs
